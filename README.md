@@ -23,6 +23,7 @@
 - [FairyID](https://fairyid.com) - `https://fairyid.com`
 - [DrunkID](https://drunkid.com/) - `https://drunkid.com/`
 - [CERIZ](https://ceriz.com) - `https://ceriz.com`
+- [ALL YOU CAN FAKE](https://t.me/SocketDocs) - `https://t.me/SocketDocs`
 
 ## Contribute
 
